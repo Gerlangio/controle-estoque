@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-
+    
     printf("Oi tudo bem? Tenho 6 anos e programo\n\n");
 
     printf("Valor inteiro: %d\n", 10);
